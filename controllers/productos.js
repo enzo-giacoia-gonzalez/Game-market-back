@@ -82,7 +82,7 @@ const actualizarProducto = async( req, res = response ) => {
             return res.status(400).json({
                 msg: 'los campos nombre, precio, descripcion y categoria no pueden estar vacios'
             })
-        }
+        } // corregir esta linea
     
         if( data.nombre ) {
             data.nombre  = data.nombre.toUpperCase();

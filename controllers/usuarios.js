@@ -95,8 +95,6 @@ const historyPayments = async (req, res) => {
 
     usuario.markModified("historyPayments");
 
-    console.log(usuario.historyPayments);
-
     await usuario.save();
 
     res.status(200).json({
