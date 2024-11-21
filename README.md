@@ -1,6 +1,3 @@
-
-Aquí te dejo el texto corregido con los acentos y algunos ajustes de redacción:
-
 Ecommerce sobre venta de juegos de PC hecho con Node.js, Express, MongoDB, Mongoose, JSON Web Token (JWT), Nodemailer, Cloudinary, MercadoPago, etc.
 
 Pasos para que funcione correctamente el back:
