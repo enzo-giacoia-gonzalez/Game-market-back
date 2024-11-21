@@ -1,20 +1,16 @@
-# WebServer + RestServer
 
-Ecommerce sobre venta de juegos de pc hecho con nodejs, express, mongodb, moongose, jsonwebtoken, nodemailer,cloudinary,mercadopago, etc.
+Aquí te dejo el texto corregido con los acentos y algunos ajustes de redacción:
 
-Pasos para que funcione correctamente el back: 
+Ecommerce sobre venta de juegos de PC hecho con Node.js, Express, MongoDB, Mongoose, JSON Web Token (JWT), Nodemailer, Cloudinary, MercadoPago, etc.
 
-1. Ejecutar npm install 
+Pasos para que funcione correctamente el back:
 
-2. Crear el .env con los nombres que aparecen en el .example.env 
-
-3. Crearte una base de datos en mongo, ir directamente a la pagina oficial y de ahi crearte un cluster
-
-4. Asignar el puerto y el nombre de la clave secreta que quieras, yo preferentemente uso el 8080 para el puerto.
-
-5. Ir a Cloudinary para crear una cuenta y de ahi vas a poder obtener la url
-
-6. Una ves que hagas todos los pasos anterior ejecutar npm run start y probar, se me puede haber pasado algo. si es asi mil disculpas
+1. Ejecutar npm install.
+2. Crear el archivo .env con los nombres que aparecen en el archivo .example.env.
+3. Crear una base de datos en MongoDB, ir directamente a la página oficial y, desde ahí, crear un clúster.
+4. Asignar el puerto y el nombre de la clave secreta que quieras. Yo, preferentemente, uso el puerto 8080.
+5. Ir a Cloudinary para crear una cuenta y, desde allí, podrás obtener la URL.
+6. Una vez que hagas todos los pasos anteriores, ejecutar npm run start y probar. Puede que se me haya pasado algo, si es así, mil disculpas.
 
 
 
